@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## No Stone Unturned Federated Church
 
-You can use the [editor on GitHub](https://github.com/NSUChurch/NoStoneUnturned/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Demanding, for every child, the right to a safe and academically relevant education.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are a legitimate church and 501(c)(3) organization. We welcome members of all faiths, and members of no faith.
 
-### Markdown
+# [DONATE NOW](https://www.paypal.com/donate?hosted_button_id=W4F5D3Q8EKJHC)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Need help? Visit [getmeout.net](https://www.getmeout.net/)
 
-```markdown
-Syntax highlighted code block
+[Look up a school (coming soon)](url)
 
-# Header 1
-## Header 2
-### Header 3
+Submit evidence about a school using our secure inbox: EvidenceDrop@protonmail.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NSUChurch/NoStoneUnturned/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+General questions? Email nsuchurch@gmail.com
