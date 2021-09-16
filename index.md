@@ -1,4 +1,6 @@
-We welcome members of all faiths, and members of no faith. 
+# No Stone Unturned Federated Church
+
+We welcome members of all faiths, including members of no faith. 
 
 # [DONATE NOW](https://www.paypal.com/donate?hosted_button_id=W4F5D3Q8EKJHC)
 
