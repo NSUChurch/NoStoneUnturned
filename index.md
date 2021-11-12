@@ -1,4 +1,4 @@
-# No Stone Unturned Federated Church
+# No Stone Unturned
 
 We welcome members of all faiths, including members of no faith. 
 
@@ -14,6 +14,6 @@ General questions? Email nsuchurch@gmail.com
 
 Our headquarters are in Madison, WI.  
 
-We are a recognized 501(c)(3) religious organization.
+We are a recognized nonprofit religious organization.
 
 
