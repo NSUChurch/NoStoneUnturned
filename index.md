@@ -14,6 +14,8 @@ General questions? Email nsuchurch@gmail.com
 
 Our headquarters are in Madison, WI.  
 
-We are a recognized nonprofit religious organization.
+We are a nonprofit public charity. Donations may be tax deductible as allowable by law. EIN 87-0853436 
+
+
 
 
