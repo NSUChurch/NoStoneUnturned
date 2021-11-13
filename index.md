@@ -1,20 +1,32 @@
-# No Stone Unturned
+## [Donate via PayPal](https://www.paypal.com/donate?hosted_button_id=W4F5D3Q8EKJHC)
 
 We welcome members of all faiths, including members of no faith. 
 
-# [DONATE NOW](https://www.paypal.com/donate?hosted_button_id=W4F5D3Q8EKJHC)
+We believe in Intrinsic Altruism.
 
-Need help? Visit [getmeout.net](https://www.getmeout.net/)
+We believe that there exists, within each of us, a rudiment of goodness that is called moral faith. 
 
-[Look up a school (coming soon)](url)
+When you choose to cultivate, rather than suppress, the nugget of kindness that you were born with, you can perpetually aspire to give humbly of yourself to others who are in need, without expectation of reciprocity or gratitude. 
 
-Submit evidence about a school using our secure inbox: EvidenceDrop@protonmail.com
+Intrinsic Altruism helps each of us to maintain motivation to provide assistance to other humans to reduce suffering and improve the conditions of humanity.
 
-General questions? Email nsuchurch@gmail.com
+## Our Projects
 
-Our headquarters are in Madison, WI.  
+* [Bethesda Lost Loves](http://bethesdalostloves.org/)
+* [Boarding School Abuse Prevention](https://www.getmeout.net/)
+* [Boarding School Search/Incident Registry (coming soon)](url)
 
-We are a nonprofit public charity. Donations may be tax deductible as allowable by law. EIN 87-0853436 
+NSU been a lawfully established Church since May of 2021. We are headquartered in Madison, WI.
+
+Federal Tax ID #87-0853436
+
+[Find us on Facebook](https://www.facebook.com/groups/nostoneunturnedchurch)
+
+Donations are tax-deductible as allowable by law.
+
+General questions? Want to volunteer? Email nsuchurch@gmail.com
+
+
 
 
 
