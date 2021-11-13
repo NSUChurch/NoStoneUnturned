@@ -1,16 +1,12 @@
 # No Stone Unturned
 
-We believe in Intrinsic Altruism.
+Within each of us, there exists a rudiment of goodness that is called moral faith. 
 
-We believe that there exists, within each of us, a rudiment of goodness that is called moral faith. 
+When we choose to cultivate, rather than suppress, the nugget of kindness that we were born with, we can perpetually aspire to give humbly of ourselves to others who are in need, without expectation of reciprocity or gratitude. 
 
-When you choose to cultivate, rather than suppress, the nugget of kindness that you were born with, you can perpetually aspire to give humbly of yourself to others who are in need, without expectation of reciprocity or gratitude. 
+Your belief in each individual's intrinsic altruism has pre-built NSU's foundation. Thank you!
 
-Intrinsic Altruism helps each of us to maintain motivation to provide assistance to other humans to reduce suffering and improve the conditions of humanity.
-
-We are a church. We welcome members of all faiths, including members of no faith.
-
-## Our Projects
+## NSU Projects
 
 * [Bethesda Lost Loves](http://bethesdalostloves.org/)
 * [Boarding School Abuse Prevention](https://www.getmeout.net/)
@@ -19,12 +15,13 @@ We are a church. We welcome members of all faiths, including members of no faith
 
 # [Donate Today!](https://www.paypal.com/donate?hosted_button_id=W4F5D3Q8EKJHC)
 
+No Stone Unturned (NSU) is an Intrinsic Altruist Church headquartered in Madison, WI. 
 
-NSU been a lawfully established Church since May of 2021. We are headquartered in Madison, WI.
+NSU welcomes members of all faiths, including members of no faith.
 
 Federal Tax ID #87-0853436
 
-[Join us on Facebook](https://www.facebook.com/groups/nostoneunturnedchurch)
+[Join us](https://www.facebook.com/groups/nostoneunturnedchurch)
 
 Donations are tax-deductible as allowable by law.
 
