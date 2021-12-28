@@ -6,7 +6,7 @@ No Stone Unturned (NSU) is a church whose members share a common belief that chi
 
 We welcome members of **all faiths**, including members of **no faith**.
 
-# [Donate Today!](https://www.paypal.com/donate?hosted_button_id=W4F5D3Q8EKJHC)
+# [Donate Today!](https://donorbox.org/nostoneunturned)
 
 ## Your donations fund these projects:
 
