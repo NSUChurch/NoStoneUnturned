@@ -10,9 +10,9 @@ We welcome members of **all faiths**, including members of **no faith**.
 
 ## Your donations fund these projects:
 
-* [Boarding School Abuse Prevention](https://www.getmeout.net/), an effort to formally report current and ongoing institutional abuses and assaults.  
+* [Abuse Prevention](https://www.getmeout.net/), an effort to formally report current and ongoing institutional abuses and assaults.  
 
-* [Boarding School Searchable Incident Catalog (coming soon)](url), an effort to research, document, and expose current and past institutional abuse events and other misdeeds by collecting first hand accounts, combining those with OSINT data, and presenting an easy-to-use searchable catalog for parents, educators, law enforcement, the judiciary, legislators, and others to locate and find accurate and relevant information to help inform future decisions or actions.  
+* [Facility Data Collection](url), an effort to research, document, and expose current and past institutional abuse events and other records by collecting first hand accounts, public records, police reports, and more for use by parents, educators, law enforcement, the judiciary, legislators, and others to locate and find accurate and relevant information to help inform future decisions or actions.  
  
 * [Academic Credit Recovery (coming soon)](url), helping former students of these facilities recover the academic credits and education they lost during their time at a troubled teen facility.  
 
